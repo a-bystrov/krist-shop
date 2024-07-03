@@ -1,0 +1,14 @@
+.contacts {
+  width: 60%;
+  margin: 50px auto;
+  text-align: center;
+}
+
+.contacts h1 {
+  font-size: 50px;
+  margin-bottom: 50px;
+}
+
+.contacts p {
+  font-size: 20px;
+}

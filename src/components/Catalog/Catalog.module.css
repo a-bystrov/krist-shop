@@ -1,0 +1,19 @@
+.catalog {
+  text-align: center;
+  padding-top: 80px;
+  padding-bottom: 40px;
+  width: 100%;
+  background: #f2f2f2;
+}
+
+.title {
+  margin-bottom: 40px;
+}
+
+.cardsOfCatalog {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  background: #f2f2f2;
+}
+
